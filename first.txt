@@ -1,0 +1,2 @@
+hi this is mohan
+this is my first msg in git first file 
