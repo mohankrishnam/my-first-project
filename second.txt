@@ -1,3 +1,4 @@
-fualksfksjfhslkjhsalkfskajhfsafjsajfbhsaljkfsakmvsjvsln,vdfsad
-
-added a my first line to the second.txt
+hi 
+i had sucessefully executed push command 
+ thank God
+ 
